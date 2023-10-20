@@ -239,17 +239,8 @@ h2 {
   text-transform: uppercase;
   }
 
-  .renzo {
-    font-size: 4.4em;
-    font-family: 'Young Serif', 'Courier New', Courier, monospace;
-    text-transform: uppercase;
-    display: block; /* Convertir en bloque para centrar */
-    text-align: center; /* Centrar horizontalmente */
-    margin: 0 auto; /* Centrar verticalmente y ajustar el margen para centrar horizontalmente */
-    padding-top: 6.3ch;
-  }
-  
 
+  
 h3 {
   text-align: center;
 }
