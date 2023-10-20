@@ -1,0 +1,256 @@
+@font-face {
+  font-family: 'Heavitas';
+  src: url('Heavitas.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Heavitas', sans-serif;
+  color: #f0f0f0;
+  overflow-x: hidden;
+  /* Aquí puedes aplicar estilos adicionales para la fuente */
+  padding: 0%;
+  margin: 0;
+}
+
+
+body {
+    text-align: center;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    background-color: #141414;
+}
+
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  .audiovisuales, .Reel, .contacto, .descripcion {
+    padding-top: 20px;
+    padding-bottom: 0;
+  }
+
+  
+  form {
+    padding-left: 15%;
+    padding-right: 15%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  form input[type="text"], form input[type="submit"] {
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 16px;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #fffbdf;
+  }
+  
+  form input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  nav h3 {
+    display: inline-block;
+    margin-left: 20px;
+  }
+  
+  body {
+    height: 100vh;
+    margin: 0;
+  }
+  
+  div {
+    height: 80vh;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+}
+
+nav a {
+    margin: 10vw;
+}
+
+/* nav a:last-child {
+    margin-right: 10px;
+} */
+
+.tarea {
+    text-align: left;
+}
+
+form {
+    border: none;
+}
+
+/* otro estilo */
+
+form label {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    display: block;
+    margin-bottom: 10px;
+}
+
+form input, form textarea {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid gray;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+form button:hover {
+    background-color: #f0f0f0;
+    cursor: pointer;
+}
+
+
+a {
+  text-decoration: none;
+  color: #f0f0f0;
+}
+
+.selected,
+a:hover{
+  color: #eeeeee;
+  text-shadow: 1px 1px 1px #ccc;
+}
+
+
+
+header {
+  position: inherit;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #141414; /* Cambia el color a tu preferencia */
+  z-index: 1000; /* Asegura que la barra de navegación esté en la parte superior */
+  height: 20vh;
+}
+
+.video-container {
+  text-align: left;
+  align-content: center;
+  width: auto;
+  margin: auto;
+}
+
+.audiovisuales {
+  text-align: center;
+  margin: 0;
+}
+
+a img {
+  width: 50px;
+  height: 50px;
+}
+
+iframe {
+  width: 96vw; /* Aumenta el ancho según tus necesidades */
+  height: 80vh; /* Aumenta la altura según tus necesidades */
+}
+
+nav a {
+  font-size: larger;
+}
+
+.oculto {
+  display: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  max-width: 20vh; /* ajusta este valor según el tamaño de tu logo */
+  height: auto;
+  object-fit: contain;
+  align-self: flex-start;
+  padding-right: 10px; /* ajusta este valor según la separación que deseas */
+
+}
+
+#contacto {
+  overflow: hidden;
+}
+
+.descripcion img {
+  max-width: 100%;
+  max-height: 400px;
+}
+
+h2 {
+  color: #f0f0f0;
+}
+
+.video-container {
+  padding-bottom: 200px;
+}
+
+.video-container-1 {
+  padding-bottom: 70px;
+}
+
+h2 {
+  margin-top: -90px;
+  display: flex; /* Utilizamos un contenedor flexible para centrar el contenido */
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+}
+
+.titulo {
+  margin: 0;
+}
+
+.renzo {
+  padding-top: 4ch;
+  margin-left: 30vw;
+  font-size: 3.7em;
+  font-family: 'Young Serif', 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  }
+
+h3 {
+  text-align: center;
+}
+
+a {
+  font-size: 12px;
+}
+
+.main {
+  padding-top: 0px;
+}
+
+iframe {
+  border: none;
+}
