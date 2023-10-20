@@ -41,32 +41,6 @@ body {
     padding-bottom: 0;
   }
 
-  
-  form {
-    padding-left: 15%;
-    padding-right: 15%;
-    border: 1px solid black;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  }
-
-  form input[type="text"], form input[type="submit"] {
-    margin: 10px 0;
-    padding: 10px;
-    font-size: 16px;
-    color: black;
-    border: 1px solid black;
-    border-radius: 5px;
-    background-color: #fffbdf;
-  }
-  
-  form input[type="submit"] {
-    background-color: #333;
-    color: #fff;
-  }
-  
   nav {
     display: flex;
     justify-content: flex-end;
@@ -233,8 +207,8 @@ h2 {
 
 .renzo {
   padding-top: 6.3ch;
-  padding-left: 25rem;
-  padding-right: 15rem;
+  padding-left: 22rem;
+  padding-right: 22rem;
   font-size: 4.4em;
   font-family: 'Young Serif', 'Courier New', Courier, monospace;
   text-transform: uppercase;
