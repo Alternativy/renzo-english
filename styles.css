@@ -167,6 +167,8 @@ h2 {
 
 .video-container-1 {
   padding-bottom: 70px;
+  padding-left: -1ch;
+  margin: 0;
 }
 
 h2 {
