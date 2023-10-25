@@ -24,6 +24,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+      white-space: nowrap;
+      /* overflow: hidden;     */
   }
   
   nav {
@@ -193,9 +195,6 @@ h2 {
   font-size: 4.4em;
   font-family: 'Young Serif', 'Courier New', Courier, monospace;
   text-transform: uppercase;  
-  flex-wrap: nowrap;
-  word-wrap: normal;
-  word-break: keep-all;
   }
   
 h3 {
