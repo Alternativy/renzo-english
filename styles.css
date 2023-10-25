@@ -103,7 +103,7 @@ header {
   height: 20vh;
 }
 
-.video-container {
+.video-container, .video-container-1 {
   text-align: left;
   align-content: center;
   width: auto;
@@ -167,6 +167,8 @@ h2 {
 
 .video-container-1 {
   padding-bottom: 70px;
+  padding-left: -1ch;
+  margin: 0;
 }
 
 h2 {
