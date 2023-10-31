@@ -25,7 +25,7 @@ body {
     justify-content: space-between;
     align-items: center;
       white-space: nowrap;
-      padding-bottom: 10vh;
+      margin-bottom: 10vh;
       /* overflow: hidden;     */
   }
   
