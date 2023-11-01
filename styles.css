@@ -69,6 +69,7 @@ body {
 
 nav a {
     margin: 10vw;
+    margin-left: 8vw;
 }
 
 /* nav a:last-child {
@@ -212,8 +213,4 @@ a {
 
 iframe {
   border: none;
-}
-
-.reel-option{
-  margin: 124px;
 }
