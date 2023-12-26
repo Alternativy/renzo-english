@@ -218,6 +218,8 @@ iframe {
 @media only screen and (max-width: 600px) {
   body{
     overflow-x: hidden;
+    margin: 0;
+    padding: 0;
   }
   .renzo{
     font-size: 8vw;
@@ -228,5 +230,9 @@ iframe {
   iframe {
     width: 100%;
     height: 33%;
+  }
+  div .video-container, div .video-container-1, main{
+    margin: 0;
+    width: 100vw;
   }
 }
