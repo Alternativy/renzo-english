@@ -226,6 +226,7 @@ iframe {
     font-size: 5vw;
   }
   iframe {
-    height: auto;
+    width: 100%;
+    height: 33%;
   }
 }
