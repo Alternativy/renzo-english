@@ -222,4 +222,10 @@ iframe {
   .renzo{
     font-size: 8vw;
   }
+  h1{
+    font-size: 5vw;
+  }
+  iframe {
+    height: auto;
+  }
 }
