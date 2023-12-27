@@ -227,7 +227,7 @@ iframe {
     font-size: 70%;
   }
   .renzo{
-    font-size: 8vw;
+    font-size: 11vw;
   }
   h1{
     font-size: 5vw;
@@ -249,5 +249,8 @@ iframe {
   .renzo, nav{
     margin: 0;
     padding: 0;
+  }
+  .quiebre{
+    margin-bottom: 0.5em;
   }
 }
