@@ -261,6 +261,6 @@ iframe {
     justify-content: space-around;
   }
   .reel-titulo{
-    color: aqua;
+    margin-top: 0;
   }
 }
