@@ -260,4 +260,7 @@ iframe {
     width: 100vw;
     justify-content: space-around;
   }
+  .reel-titulo{
+    padding-bottom: 90px;
+  }
 }
