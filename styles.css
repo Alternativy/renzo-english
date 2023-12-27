@@ -220,9 +220,6 @@ iframe {
 }
 
 @media only screen and (max-width: 600px) {
-  .espacio{
-    margin: 50px;
-  }
   body{
     overflow-x: hidden;
     margin: 0;
@@ -255,5 +252,12 @@ iframe {
   }
   .quiebre{
     margin-bottom: 0.5em;
+  }
+  nav a {
+    margin: 0;
+}
+  nav {
+    width: 100vw;
+    justify-content: space-around;
   }
 }
