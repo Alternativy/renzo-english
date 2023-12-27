@@ -220,6 +220,7 @@ iframe {
     overflow-x: hidden;
     margin: 0;
     padding: 0;
+    font-size: 50%;
   }
   .renzo{
     font-size: 8vw;
