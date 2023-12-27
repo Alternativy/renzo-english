@@ -215,6 +215,10 @@ iframe {
   border: none;
 }
 
+.celu{
+  display: none;
+}
+
 @media only screen and (max-width: 600px) {
   body{
     overflow-x: hidden;
@@ -235,5 +239,15 @@ iframe {
   div .video-container, div .video-container-1, main{
     margin: 0;
     width: 100vw;
+  }
+  .celu{
+    display:inline-block;
+  }
+  .compu{
+    display: none;
+  }
+  .renzo, nav{
+    margin: 0;
+    padding: 0;
   }
 }
