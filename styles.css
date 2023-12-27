@@ -220,6 +220,9 @@ iframe {
 }
 
 @media only screen and (max-width: 600px) {
+  .espacio{
+    margin: 50px;
+  }
   body{
     overflow-x: hidden;
     margin: 0;
@@ -246,7 +249,7 @@ iframe {
   .compu{
     display: none;
   }
-  .renzo, nav{
+  .renzo, nav, header{
     margin: 0;
     padding: 0;
   }
