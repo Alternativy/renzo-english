@@ -240,7 +240,7 @@ iframe {
     margin: 0;
     width: 100vw;
     height: fit-content;
-    padding-bottom: 0;
+    padding-bottom: 10vh;
   }
   .celu{
     display:inline-block;
