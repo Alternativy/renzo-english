@@ -239,6 +239,7 @@ iframe {
   div .video-container, div .video-container-1, main{
     margin: 0;
     width: 100vw;
+    height: fit-content;
   }
   .celu{
     display:inline-block;
@@ -262,5 +263,9 @@ iframe {
   }
   .reel-titulo{
     margin-top: 0;
+  }
+  .video-container .video-container-1{
+    padding-bottom: 0;
+    margin-bottom: 0;
   }
 }
