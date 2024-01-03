@@ -1,0 +1,33 @@
+main
+{
+    margin-top: 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+@media (min-width: 768px)
+{
+
+    main
+    {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+}
+
+
+
+article {
+    display: flex;
+        flex-direction: column;
+        flex-grow: 1; border: none; margin: 0; padding: 0;
+    padding: 1em;
+}
+
+article h2
+{
+    font-size: 1rem;
+    margin-bottom: 1em;
+    text-align: center;
+}

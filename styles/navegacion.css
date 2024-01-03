@@ -1,0 +1,44 @@
+#navegacion-principal
+{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+    padding: 0em 1em;
+}
+
+#navegacion-principal a
+{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#navegacion-principal li[data-opcion-seleccionada="si"]
+{
+    color: #FFF9;
+}
+
+#navegacion-principal ul
+{
+    width: 100%;
+    display: flex;
+        justify-content: space-around;
+        align-items: center;
+}
+
+#navegacion-principal li
+{
+    color: white;
+    list-style: none;
+    font-size: 1.5rem;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+}
+
+.opcion-seleccionada
+{
+    
+}
