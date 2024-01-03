@@ -54,7 +54,11 @@ enlaces.forEach((enlace) => {
       if (seccion.getAttribute('id') === seccionId) {
         seccion.classList.remove('oculto');
       } else {
-        seccion.classList.add('oculto');
+        seccion.classList.add('oculto')
+        seccion.querySelectorAll("iframe").forEach((iframe)=>{
+          const src = iframe.src;
+          iframe.src = src ;
+        });
       }
     });
 
