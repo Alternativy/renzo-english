@@ -34,5 +34,7 @@ article h2
 
 article h3
 {
+    font-size: 1rem;
+    margin-bottom: 1em;
     text-align: center;
 }
