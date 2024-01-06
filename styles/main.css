@@ -28,6 +28,7 @@ article {
 article h2
 {
     /* font-size: 1.2rem; */
+    margin: 0em;
     margin-bottom: 1em;
     text-align: center;
 }
@@ -35,6 +36,7 @@ article h2
 article h3
 {
     /* font-size: 0.9rem; */
+    margin: 0em ;
     margin-bottom: 1em;
     text-align: center;
 }
