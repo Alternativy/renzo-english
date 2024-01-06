@@ -12,7 +12,8 @@
 body 
 {
     font-family: 'Heavitas', sans-serif;
-    text-rendering: optimizeLegibility;
+    text-rendering: geometricPrecision;
+    font-weight: normal;
     background: rgb(20, 20, 20);
     color: white;
     width: 100%;
