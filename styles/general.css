@@ -51,6 +51,10 @@ body
     height: 100%;
 }
 
+.contenido-articulo {
+    margin: 0em 0em 9em 0em;
+}
+
 [data-vista-estado="inactiva"] {
     display: none;
 }
