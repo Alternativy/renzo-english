@@ -68,3 +68,11 @@ body
 
 
 } */
+
+#navegacion-principal li:not(.opcion-seleccionada) a {
+    color: rgb(134, 134, 134); /* Color de texto para las opciones no seleccionadas */
+}
+
+#navegacion-principal li:not(.opcion-seleccionada) a:hover {
+    color: rgb(255, 255, 255); /* Color de texto para las opciones no seleccionadas */
+}
