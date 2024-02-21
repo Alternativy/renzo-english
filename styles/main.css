@@ -57,5 +57,6 @@ main {
     margin: 0; /* Elimina el margen alrededor del contenedor del video */
     padding-left: 0;
     padding-right: 0;
+    padding-bottom: 3em;
 }    
 }
