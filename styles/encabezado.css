@@ -32,4 +32,14 @@
         margin-top: 0em; /* Ajuste del margen inferior */
     }
 
+    article header h2{
+        font-size: 1em;
+    }
+    article header h3{
+        font-size: 0.9em;
+    }
+    article header p{
+        font-size: 0.8em;
+    }
+
 }
