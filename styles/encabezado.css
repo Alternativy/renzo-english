@@ -28,7 +28,7 @@
     }
 
     #navegacion-principal a {
-        font-size: 0.8em; /* Reducción del tamaño de la fuente para los títulos de los artículos, el encabezado principal y los enlaces de navegación */
+        font-size: 0.9em; /* Reducción del tamaño de la fuente para los títulos de los artículos, el encabezado principal y los enlaces de navegación */
         margin-bottom: 0em; /* Ajuste del margen inferior */
     }
 
