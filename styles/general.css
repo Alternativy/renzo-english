@@ -62,3 +62,13 @@ body
 [data-vista-estado="inactiva"] {
     display: none;
 }
+
+@media (max-width: 768px)
+{
+
+    body
+    {
+        background-color: rgb(128, 128, 128);
+    }
+
+}
