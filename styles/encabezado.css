@@ -21,6 +21,14 @@
 
 @media (max-width: 768px)
 {
+
+
+
+    body {
+        margin: 0; /* Elimina el margen alrededor del contenedor del video */
+    
+        font-size: 1em; /* Reduce el tamaño de la fuente base */
+    }
     
     #encabezado-principal h1 {
         font-size: 2.3em; /* Reducción del tamaño de la fuente para los títulos de los artículos y el encabezado principal */
@@ -41,5 +49,12 @@
     article header p{
         font-size: 0.75em;
     }
-
+    
+    .contenido-articulo,
+    .contenedor-video-youtube,
+    main {
+        margin: 0; /* Elimina el margen alrededor del contenedor del video */
+        padding-left: 0;
+        padding-right: 0;
+    }    
 }
