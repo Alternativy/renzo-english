@@ -23,13 +23,13 @@
 {
     
     #encabezado-principal h1 {
-        font-size: 2.1em; /* Reducción del tamaño de la fuente para los títulos de los artículos y el encabezado principal */
+        font-size: 2.3em; /* Reducción del tamaño de la fuente para los títulos de los artículos y el encabezado principal */
         margin-bottom: 0em; /* Ajuste del margen inferior */
     }
 
     #navegacion-principal a {
-        font-size: 0.9em; /* Reducción del tamaño de la fuente para los títulos de los artículos, el encabezado principal y los enlaces de navegación */
-        margin-bottom: 0em; /* Ajuste del margen inferior */
+        font-size: 0.87em; /* Reducción del tamaño de la fuente para los títulos de los artículos, el encabezado principal y los enlaces de navegación */
+        margin-top: 0em; /* Ajuste del margen inferior */
     }
 
 }
