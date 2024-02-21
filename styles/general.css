@@ -19,6 +19,18 @@ body
     width: 100%;
 }
 
+@media (min-width: 768px)
+{
+
+    body
+    {
+        max-width: 1240px;
+        margin: 0 auto;
+    }
+
+}
+
+
 .contenedor-video-youtube
 {
     position: relative;
@@ -49,19 +61,4 @@ body
 
 [data-vista-estado="inactiva"] {
     display: none;
-}
-
-@media (max-width: 768px)
-{
-
-    body
-    {
-        max-width: 1240px;
-        margin: 0 auto;
-    }
-
-    .contenido-articulo {
-        margin: 0em 0em 1em 0em;
-    }
-
 }
